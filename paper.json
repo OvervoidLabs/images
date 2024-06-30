@@ -1,0 +1,11 @@
+
+{
+  "Image": "quay.io/vnthsy/paper",
+  "Cmd": "",
+  "Env": [],
+  "Name": "paper",
+  "Author": "radityprtama@gmail.com",
+  "AuthorName": "VNTHSY",
+  "ConfigFilePath": "server.properties",
+  "ConfigFileContent": "server-port={{primaryPort}}"
+}
