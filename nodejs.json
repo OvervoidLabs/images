@@ -1,0 +1,9 @@
+
+{
+  "Image": "quay.io/vnthsy/node",
+  "Cmd": "",
+  "Env": [],
+  "Name": "nodejs",
+  "Author": "radityprtama@gmail.com",
+  "AuthorName": "VNTHSY"
+}
