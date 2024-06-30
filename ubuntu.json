@@ -1,0 +1,9 @@
+
+{
+  "Image": "ubuntu:latest",
+  "Cmd": "",
+  "Env": [],
+  "Name": "ubuntu",
+  "Author": "radityprtama@gmail.com",
+  "AuthorName": "VNTHSY"
+}
