@@ -1,0 +1,10 @@
+{
+  "iamge": "alpine:latest",
+  "Cmd": "/bin/sh",
+  "Env": [
+     "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+  ],
+  "Name": "alpine",
+  "Author": "radityprtama@gmail.com",
+  "AuthorName": "VNTHSY"
+}
