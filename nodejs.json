@@ -1,9 +1,9 @@
 
 {
-  "Image": "quay.io/vnthsy/node",
+  "Image": "quay.io/overvoidlabs/nodejs-base",
   "Cmd": "",
   "Env": [],
   "Name": "nodejs",
   "Author": "radityprtama@gmail.com",
-  "AuthorName": "VNTHSY"
+  "AuthorName": "zurra"
 }
