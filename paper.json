@@ -1,11 +1,11 @@
 
 {
-  "Image": "quay.io/vnthsy/paper",
+  "Image": "quay.io/overvoidlabs/paper-base",
   "Cmd": "",
   "Env": [],
   "Name": "paper",
   "Author": "radityprtama@gmail.com",
-  "AuthorName": "VNTHSY",
+  "AuthorName": "zurra",
   "ConfigFilePath": "server.properties",
   "ConfigFileContent": "server-port={{primaryPort}}"
 }
